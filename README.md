@@ -3,7 +3,7 @@ lab 3 cryptographic hash generation using john the ripper GUI (johnny) and netwo
 # 🔐 Cryptographic Hash Verification & Password Strength Auditing Lab
 
 > **Internship Project — Week 3**  
-> A practical lab documenting cryptographic hash generation via Network Fox built-in utilities and controlled credential strength auditing using **Johnny** (the graphical user interface for **John the Ripper**).
+> A practical lab documenting cryptographic hash generation via Network Walks built-in utilities and controlled credential strength auditing using **Johnny** (the graphical user interface for **John the Ripper**).
 
 ---
 
