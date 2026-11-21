@@ -1,0 +1,7 @@
+credential-strength-audit-lab/
+├── README.md
+├── hashes/
+│   └── sample_test_hashes.txt      # Dummy hashes generated via Network Walks (never real passwords!)
+├── screenshots/
+│   ├── network_Walks_calculator.png  # Screenshot of hash generation
+│   └── johnny_audit_session.png    # Screenshot of Johnny GUI results
